@@ -123,3 +123,6 @@ function printForecast(arr) {
 console.log('####################');
 const forecastResult = printForecast([12, 5, -5, 0, 4]);
 console.log(forecastResult);
+
+
+// Implementing Game Logic
